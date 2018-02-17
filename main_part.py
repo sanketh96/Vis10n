@@ -6,11 +6,7 @@ import os
 import time
 import shutil
 from gtts import gTTS
-import matplotlib.pyplot as plt
-import subprocess
-import pickle
 import speech_recognition as sr
-import pickle
 import threading
 import logging
 from collections import OrderedDict
