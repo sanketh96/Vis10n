@@ -70,7 +70,7 @@ def generate_frames():
     speak("Start scanning surrounding left to right")
     count = 0
     while(1):
-        cap = cv2.VideoCapture("https://192.168.1.5:8080/video")
+        cap = cv2.VideoCapture("https://192.168.1.5:8080/video") # replace the argument to 0 to use laptop webcam
         ret, frame = cap.read()
         speak("pause")
         time.sleep(500/1000.0)
