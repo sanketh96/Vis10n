@@ -6,7 +6,7 @@ In order to achieve this we perform video analysis of the person’s surrounding
 Since the targeted audience are visually impaired, we make sure that the application is handy and user friendly by handling the input and giving out the feedback as audio signals.<br/>
 In order to keep the application simple and efficient, we capture all the details of the surrounding by slicing the video to obtain unique frames, making sure we are not missing out any important details.<br/>
 
-TEAM
-Shahid Ikram
-Sumanth Rao
-Sanketh
+### TEAM
+Shahid Ikram <br/>
+Sumanth Rao <br />
+Sanketh Rangreji <br/>
